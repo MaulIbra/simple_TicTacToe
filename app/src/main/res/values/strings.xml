@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">simple_ticTacToe</string>
+    <string name="this_is_main_activity">This is Main Activity</string>
+    <string name="_1st_player">1st Player</string>
+    <string name="_2nd_player">2nd Player</string>
+    <string name="lets_play">Lets Play</string>
+    <string name="congratulations">CONGRATULATIONS</string>
+    <string name="play_again">Play Again</string>
+</resources>
